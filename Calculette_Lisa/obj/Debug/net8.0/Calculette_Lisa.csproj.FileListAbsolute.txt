@@ -12,3 +12,4 @@ C:\Users\lisam\source\repos\Calculette_Lisa\Calculette_Lisa\obj\Debug\net8.0\ref
 C:\Users\lisam\source\repos\Calculette_Lisa\Calculette_Lisa\obj\Debug\net8.0\Calculette_Lisa.pdb
 C:\Users\lisam\source\repos\Calculette_Lisa\Calculette_Lisa\obj\Debug\net8.0\Calculette_Lisa.genruntimeconfig.cache
 C:\Users\lisam\source\repos\Calculette_Lisa\Calculette_Lisa\obj\Debug\net8.0\ref\Calculette_Lisa.dll
+C:\Users\lisam\source\repos\Calculette_Lisa\Calculette_Lisa\obj\Debug\net8.0\Calculette_Lisa.sourcelink.json
